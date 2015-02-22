@@ -3,7 +3,7 @@ A simple state machine write in c# that allow you to easily create transition ru
 A finite-state machine is a model used to represent and control execution flow. It is perfect for implementing AI in games, producing great results without a complex code.
 
 # Usage
-To use the state machine you need a few simple steps
+To use the state machine you need to follow a few simple steps
 ##### Create an enum
 In your derived class or whatever you prefer, you can declare you enum, which will represent the state of the state machine:
 ```javascript
@@ -14,8 +14,8 @@ public enum YourEnum
 	Jump
 }
 ```
-##### Your monobehivour should inherit from StateMachineBeviour
-Remeber to specify the Enum that you ChildFSM should handle:
+##### Your monobehivour should inherit from BaseFSM
+Remeber to specify the Enum that your ChildFSM should handle:
 ```javascript
 public class ChildFSM : BaseFSM<YourEnum> 
 {
