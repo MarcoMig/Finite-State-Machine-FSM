@@ -1,6 +1,6 @@
 # Finite-State-Machine
 A simple state machine write in c# that allow you to easily create transition rules between states.
-A finite-state machine is a model used to represent and control execution flow. It is perfect for implementing AI in games, producing great results without a complex code. This tutorial describes the theory, implementation and use of simple and stack-based finite-state machines.
+A finite-state machine is a model used to represent and control execution flow. It is perfect for implementing AI in games, producing great results without a complex code.
 
 # Usage
 To use the state machine you need a few simple steps
