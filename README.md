@@ -24,7 +24,7 @@ public class ChildFSM : BaseFSM<YourEnum>
 ```
 
 ##### Initialize the State Machine
-Inside the ChildFSM constructor you have to define the states transition o your ChildFSM and the initial state machine state:
+Inside the ChildFSM constructor you have to define the states transition and the initial state machine state:
 ```javascript
 public ChildFSM () : base()
 {			
@@ -49,7 +49,7 @@ You can see it like:
 ```
 
 ##### Usage
-By using the state machine you have to create an instance of you child state machine:
+For a correct use of the state machine you have to create an instance of your child state machine:
 ```javascript
 ChildFSM fsm = new ChildFSM()
 ```
