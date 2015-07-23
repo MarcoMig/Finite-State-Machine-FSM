@@ -75,7 +75,7 @@ MIT License
 # Contact
 If you liked the library or you have any suggestions these are my contacts:
 
-1.[Twitter](https://twitter.com/Marcomignano3Twitter) 
+1.[Twitter](https://twitter.com/Marcomignano3) 
 
 2.Mail: marco.mignano89 at gmail.com
 
