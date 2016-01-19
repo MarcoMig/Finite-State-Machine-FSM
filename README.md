@@ -79,7 +79,7 @@ If you liked the library or you have any suggestions these are my contacts:
 
 2.Mail: marco.mignano89 at gmail.com
 
-3.[WebSite](http://marcomignano.altervista.org)  
+3.[WebSite](http://marcomignano.com)  
 
 If these was helpfull a simple add on Twitter will be a nice thanks.
 # Credits:
